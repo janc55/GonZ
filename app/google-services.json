@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636296542943",
+    "firebase_url": "https://gonz-6fc7f.firebaseio.com",
+    "project_id": "gonz-6fc7f",
+    "storage_bucket": "gonz-6fc7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636296542943:android:e9d7460415da4bcfe0876a",
+        "android_client_info": {
+          "package_name": "netti.dev.gonz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636296542943-rku84kdpts9954odg7glqev9sds0mmca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "netti.dev.gonz",
+            "certificate_hash": "0fe81034481c2ca8d471e9b9649d419f4509ac16"
+          }
+        },
+        {
+          "client_id": "636296542943-0n11gkv5eo6nnhq3sv2uutbagm908tv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKkLxHWQzSVQNpJQBGCfMyAuD7u8M_PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636296542943-0n11gkv5eo6nnhq3sv2uutbagm908tv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
