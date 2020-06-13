@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "636296542943-ihtqscd4b852fvo3h0h5a45enep93qc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "netti.dev.gonz",
+            "certificate_hash": "2e367bacde7883f69f9953e962105934b316c3f9"
+          }
+        },
+        {
           "client_id": "636296542943-rku84kdpts9954odg7glqev9sds0mmca.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
